@@ -709,7 +709,18 @@ input, select, textarea {
 		.image.main.linkenin {
 			display:block;
 			margin: 1.5rem 0;
-			width: 10%;
+			width: 8.5%;
+		}
+		.image.main.Github {
+			display:block;
+			margin: 1.5rem 0;
+			width: 7%;
+			padding-left: 10px;
+		}
+		.image.main.resume {
+			display:block;
+			margin: 1.5rem 0;
+			width: 20%;
 		}
 		
 
@@ -1645,11 +1656,16 @@ input, select, textarea {
 			text-align:start;
 		
 			font-size:17px;
-			justify-content:center;
-			text-align: left;
+			justify-content:left;
+			
 			
 			
 		
+		
+		}
+		.detailing{
+			font-weight:bold;
+			color:aqua;
 		}
 
 /* Footer */
