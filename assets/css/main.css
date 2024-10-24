@@ -1653,7 +1653,7 @@ input, select, textarea {
 		}
 
 		.introdescription{
-			text-align:start;
+			text-align:justify;
 		
 			font-size:17px;
 			justify-content:last baseline;
